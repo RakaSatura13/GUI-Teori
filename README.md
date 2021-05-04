@@ -4,7 +4,7 @@ Fadlan Raka Ssatura
 19104072
 
 ## Data Mahasiswa
-![enter image description here]("https://i.ibb.co/WfQyGws/tugas2.png")
+![enter image description here](https://i.ibb.co/WfQyGws/tugas2.png)
 
 Pada Data Mahasiswa saya menggunakan Label
 Selanjutnya Pada Tabelnya saya menggunakan List Widget
